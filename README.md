@@ -15,6 +15,15 @@ This project focuses on processing and analyzing IoT sensor data using Apache Sp
   - `location` (String)
   - `sensor_type` (String)
 
+| Column Name   | Description                              |
+|---------------|------------------------------------------|
+| `sensor_id`   | Unique identifier for the sensor         |
+| `timestamp`   | Timestamp of the sensor reading          |
+| `temperature` | Temperature reading (°C)                 |
+| `humidity`    | Humidity reading (%)                     |
+| `location`    | Physical location of the sensor          |
+| `sensor_type` | Type/category of the sensor              |
+
 ---
 
 ## ✅ Tasks & Sample Outputs
